@@ -5,6 +5,10 @@ We focus on the analog front end, where the given circuits are analyzed.
 
 For more information, please go through the detailed [project report](RF_Mini_Project.pdf) as well as the [final presentation](Final_presentation.pdf). They contain the simulation outputs of each of the sections explained below.
 
+Done by:
+Chandravaran Kunjeti
+Shruti Masand
+
 ## Table of Contents
 1. [Block Diagram](#Block-diagram)
 2. [Rectifier](#rectifier)
